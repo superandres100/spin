@@ -1,3 +1,8 @@
+Create public subnets, a route table for them and an GWLB endpoint living in each of them
+
+
+
+
 Use: 
 
 terraform init
