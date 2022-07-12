@@ -17,4 +17,4 @@ public_subnets_map = {
  
  // ----Endpoint Information --- Add the endpoint service name
  
- service_name = "com.amazonaws.vpce.us-east-1.vpce-svc-09f5d87b88509e545"
+ service_name = "com.amazonaws.vpce.us-east-1.vpce-svc-09f5d87b88509e549"
