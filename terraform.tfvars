@@ -1,8 +1,8 @@
 // AWS PROVDER ---- Add your login information
 
 region     = "us-east-1"
-access_key = "AKIARVVM2BQJQCL3U6YT"
-secret_key = "nBgtyoSu0FC4a6uM7oa38LncVCFnSletlPFMl42L"
+access_key = "xxx"
+secret_key = "xxx"
 
 
 // --- VPC Network Configuration --- Add your VPC-id and IGW-id for Prod VPC
